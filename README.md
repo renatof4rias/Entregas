@@ -8,6 +8,7 @@ você encontrará o código fonte do servidor que gerencia as requisições da A
 > Spring Boot        
 > JPA
 
+END POINTS     
 GET/orders = Retorna uma lista com todos os pedidos (Ordenados pelo mais antigo ao mais recente).                            
 POST/orders = Cria um novo pedido.                                               
 PUT/orders/id/delivered = Altera o status de um pedido para entregue (Confirmando uma Entrega).
