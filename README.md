@@ -1,4 +1,4 @@
-# Back End para API de Sistema de Entregas de Comidas
+# Back End para API de Sistema de Entregas.
 
 Este é o repositório do back-end da API do projeto de Entregas. Neste repositório,
 você encontrará o código fonte do servidor que gerencia as requisições da API e se comunica com o banco de dados. A API é construída utilizando a tecnologia Spring Boot e possui os seguintes recursos.
